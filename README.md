@@ -10,3 +10,4 @@ This project was undertaken as part of the **Modelling, Simulation, and Optimisa
 ### Optimisation
 
 - Find the optimal number of trains per hour and number of signlling blocks such that the delay of a train is no more than half the scheduled time between two consecutive trains.
+- Hill Climbing optimisation was applied to reach the optimal number of trains per hour and the number of signalling blocks.
