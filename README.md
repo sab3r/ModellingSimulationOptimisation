@@ -1,6 +1,6 @@
 # Modelling, Simulation, and Optimisation
 
-This project was undertaken as part of the *Modelling, Simulation, and Optimisation* module of MSc. Data Analytics course in National College of Ireland
+This project was undertaken as part of the **Modelling, Simulation, and Optimisation** module of MSc. Data Analytics course in National College of Ireland
 
 ### Simulation
 
